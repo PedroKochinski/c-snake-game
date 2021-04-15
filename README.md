@@ -1,2 +1,2 @@
 # c-snake-game
-a C reproduction of the snake game first published by nokia in 1997
+I reproduce the snake game in c for windows as a programming exercise. In this project I learn about game logic and C libraries and its implementations.
