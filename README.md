@@ -8,5 +8,7 @@ The game runs in Windows Terminal:
 How to play:
 
 1 - control the snake with W, S, A, D keys;
+
 2 - eat the green * to increase snake lenght or press f;
+
 3 - do not touch boundaries or the other snake parts;
