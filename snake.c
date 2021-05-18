@@ -126,4 +126,5 @@ int main(){
         render(field);
     }
     printf("\033[0mGame Over\nYour score: %d", score);
+    return 0;
 }
